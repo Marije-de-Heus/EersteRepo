@@ -9,6 +9,7 @@
 .project
 .metadata
 .recommenders
+bin
 bin/**
 tmp/**
 tmp/**/*
